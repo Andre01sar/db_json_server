@@ -1,0 +1,49 @@
+{
+    "profesores":[
+        {
+            "nombre": "Pedro",
+            "apellido": "Flores",
+            "cursos":[
+                {
+                    "nombre": "NodeJS"
+                },
+                {
+                    "nombre":"Angular"
+                },
+                {
+                    "nombre": "JavaScript"
+                }
+            ]
+        }
+    ],
+
+    "alumnos":[
+        {
+            "nombre": "Maria",
+            "apellido": "Campo",
+            "promedio": 8.2
+        },
+        {
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "promedio": 8
+        }
+    ],
+    "cursos":[
+        {
+            "nombre":"JavaScript",
+            "duracion_hs": 6,
+            "dificultad": "media"
+        },
+        {
+            "nombre":"Angular",
+            "duracion_hs": 8,
+            "dificultad": "media"
+        },
+        {
+            "nombre":"NodeJS",
+            "duracion_hs": 4,
+            "dificultad": "media"
+        }
+    ]
+}
